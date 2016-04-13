@@ -1,1 +1,1 @@
-body {	width: 100%;}ul {	margin: 0;	padding: 0;	list-style: none;}li.image {	position: absolute;	top: 0;	left: 0;}#MainRegion {	position: relative;	margin: 0 auto;	border: 2px dotted gray;}
+body {	width: 100%;}ul {	margin: 0;	padding: 0;	list-style: none;}li.image {	position: absolute;	top: 0;	left: 0;}.invisible {	display: none;}#MainRegion {	position: relative;	margin: 0 auto;	border: 2px dotted gray;}#Counter {	width: 80%;	margin: 5px auto;	text-align: center;}
